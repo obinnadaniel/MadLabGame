@@ -1,0 +1,6 @@
+c:\users\obinna daniel\documents\visual studio 2017\Projects\MidLabGame\MidLabGame\bin\Debug\MidLabGame.exe.config
+c:\users\obinna daniel\documents\visual studio 2017\Projects\MidLabGame\MidLabGame\bin\Debug\MidLabGame.exe
+c:\users\obinna daniel\documents\visual studio 2017\Projects\MidLabGame\MidLabGame\bin\Debug\MidLabGame.pdb
+c:\users\obinna daniel\documents\visual studio 2017\Projects\MidLabGame\MidLabGame\obj\Debug\MidLabGame.csprojResolveAssemblyReference.cache
+c:\users\obinna daniel\documents\visual studio 2017\Projects\MidLabGame\MidLabGame\obj\Debug\MidLabGame.exe
+c:\users\obinna daniel\documents\visual studio 2017\Projects\MidLabGame\MidLabGame\obj\Debug\MidLabGame.pdb
